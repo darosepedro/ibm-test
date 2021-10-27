@@ -4,8 +4,7 @@ O desconto do INSS segue uma tabela anual que contém alíquotas para determinad
 
 Abaixo segue as tabelas de 2011 e 2012:
 
-| Ano 2011 | . |
-| --- | --- |
+###### Ano 2011
 | Salário de Contribuição | Alíquota para fins de recolhimento ao INSS (%) |
 | --- | --- |
 | até R$ 1.106,90 | 8,00 |
