@@ -18,3 +18,7 @@ Abaixo segue as tabelas de 2011 e 2012:
 | de R$  1.000,01 a R$ 1.500,00 | 8,00 |
 | de R$ 1.500,01 até R$ 3.000,00 | 9,00|
 | de R$ 3.000,01 até R$ 4.000,00 |11,00 |
+
+![This is an image](https://github.com/darosepedro/ibm-test/blob/main/foto.jpeg)
+
+
