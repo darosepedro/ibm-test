@@ -20,9 +20,9 @@ Abaixo segue as tabelas de 2011 e 2012:
 | de R$ 3.000,01 até R$ 4.000,00 |11,00 |
 
 
-| Foto | Apresentação |
+| Autor | Apresentação |
 | --- | --- |
-| ![This is an image](https://github.com/darosepedro/ibm-test/blob/main/foto.jpeg) | Neste projeto, utilizei injeção de dependência, Arquitetura em Camadas, Extension Method, Single Responsability e mais alguns conceitos. Sendo um teste de baixa complexidade e de escopo reduzido, optei por não acrescentar muitos conceitos, para manter a simplicidade do código. Implementei também alguns testes unitários para a classe responsável pelo cálculo da alíquota|
+| ![This is an image](https://github.com/darosepedro/ibm-test/blob/main/foto.jpeg) | Neste projeto, utilizei injeção de dependência, Arquitetura em Camadas, Extension Method, Single Responsability e mais alguns conceitos. Sendo um teste de baixa complexidade e de escopo reduzido, optei por não acrescentar muitos conceitos, para manter a simplicidade do código. Implementei também alguns testes unitários para a classe responsável pelo cálculo da alíquota, e para isso usei o xUnit|
 
 
 
